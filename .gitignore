@@ -1,3 +1,7 @@
 #All the bdd100k images
 
 data/
+
+#All evnvionment files and folder
+
+bosch_env/
