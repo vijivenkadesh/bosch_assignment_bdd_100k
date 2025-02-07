@@ -5,3 +5,7 @@ data/
 #All evnvionment files and folder
 
 bosch_env/
+
+#ipynb_checkpoints
+
+.ipynb_checkpoints
